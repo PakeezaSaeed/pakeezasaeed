@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there! 👋 
+
+I'm Pakeeza Saeed, the wearer of many hats in the data world. I am a Microsoft Certified Data Analyst, helping companies view and take advantage of their data, optimize their business processes, build pipelines and engineer data. 
 
 <!--
 **PakeezaSaeed/pakeezasaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
