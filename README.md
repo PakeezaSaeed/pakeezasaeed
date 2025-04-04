@@ -5,11 +5,13 @@ I'm Pakeeza Saeed, the wearer of many hats in the data world. I am a Microsoft C
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Skills and Technologies
-### Tools: Power BI, Tableau, Azure Data Factory
+### Tools: Power BI, Tableau, Azure Data Factory ![image](https://github.com/user-attachments/assets/c20559bb-e272-48c2-9342-245d2e2d93c4)
+
 ### Languages: SQL, Python, R 
 
 <!--
 **PakeezaSaeed/pakeezasaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Uploading image.png…]()
 
 Here are some ideas to get you started:
 
