@@ -2,6 +2,12 @@
 
 I'm Pakeeza Saeed, the wearer of many hats in the data world. I am a Microsoft Certified Data Analyst, helping companies view and take advantage of their data, optimize business processes, build pipelines and engineer data. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Skills and Technologies
+### Tools: Power BI, Tableau, Azure Data Factory
+### Languages: SQL, Python, R 
+
 <!--
 **PakeezaSaeed/pakeezasaeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
