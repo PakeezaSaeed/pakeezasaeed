@@ -4,7 +4,7 @@ I'm Pakeeza Saeed, the wearer of many hats in the data world. I am a Microsoft C
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Skills and Technologies
+#### ![image](https://github.com/user-attachments/assets/740c4abd-a708-42e9-b65d-01aa3754a15b) ## Skills and Technologies
 ### Tools: Power BI, Tableau, Azure Data Factory 
 ### Languages: SQL, Python, R 
 
