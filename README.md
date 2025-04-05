@@ -1,6 +1,6 @@
 ## Hello there! 👋 
 
-I'm Pakeeza Saeed, the wearer of many hats in the data world. I am a Microsoft Certified Data Analyst, helping companies view and take advantage of their data, optimize business processes, build pipelines and engineer data. 
+I'm Pakeeza Saeed, the wearer of many hats in the data world! I am a Microsoft Certified Data Analyst, helping companies view and take advantage of their data, optimize business processes, build dashboards and pipelines and engineer data. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
